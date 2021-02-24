@@ -1,6 +1,6 @@
-如果想要知道是否db層效能問題：
- 
-## 看看io wait time
+# 如果想要知道是否db層效能問題：
+  
+## 看看 io wait time
 如果 db 效能卡在 io，你應該看到 io wait time升起來的
 
 ## 看看 io throughput(disk 和 network 都要看)
